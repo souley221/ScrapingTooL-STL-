@@ -5,9 +5,9 @@
   "carrier": "Vodafone",
   "considerIp": "true",
   "cellTowers": [
-    // See the Cell Tower Objects section below.
+    
   ],
   "wifiAccessPoints": [
-    // See the WiFi Access Point Objects section below.
+    
   ]
 }
